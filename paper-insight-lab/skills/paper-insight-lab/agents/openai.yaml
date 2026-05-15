@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Insight Lab"
+  short_description: "读论文、找创新点、生成研究笔记"
+  default_prompt: "Use $paper-insight-lab to read this paper and generate a Markdown note with research gaps and innovation ideas."
